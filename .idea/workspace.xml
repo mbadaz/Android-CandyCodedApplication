@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,25 +175,25 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="561" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1602668643818" />
-    <state width="1526" height="457" key="GridCell.Tab.0.bottom" timestamp="1602669216152">
+    <state width="1526" height="403" key="GridCell.Tab.0.bottom" timestamp="1602669323045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1526" height="457" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602669216152" />
-    <state width="1526" height="457" key="GridCell.Tab.0.center" timestamp="1602669216151">
+    <state width="1526" height="403" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602669323045" />
+    <state width="1526" height="403" key="GridCell.Tab.0.center" timestamp="1602669323044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1526" height="457" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602669216151" />
-    <state width="1526" height="457" key="GridCell.Tab.0.left" timestamp="1602669216150">
+    <state width="1526" height="403" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602669323044" />
+    <state width="1526" height="403" key="GridCell.Tab.0.left" timestamp="1602669323044">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1526" height="457" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602669216150" />
-    <state width="1526" height="457" key="GridCell.Tab.0.right" timestamp="1602669216151">
+    <state width="1526" height="403" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602669323044" />
+    <state width="1526" height="403" key="GridCell.Tab.0.right" timestamp="1602669323045">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1526" height="457" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602669216151" />
-    <state width="375" height="118" key="javadoc.popup.new" timestamp="1602668787000">
+    <state width="1526" height="403" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602669323045" />
+    <state width="375" height="118" key="javadoc.popup.new" timestamp="1602670571242">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="375" height="118" key="javadoc.popup.new/0.0.1600.860@0.0.1600.860" timestamp="1602668787000" />
+    <state width="375" height="118" key="javadoc.popup.new/0.0.1600.860@0.0.1600.860" timestamp="1602670571242" />
   </component>
 </project>
