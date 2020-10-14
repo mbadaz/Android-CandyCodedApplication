@@ -10,9 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,9 +189,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1526" height="403" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602669323045" />
-    <state width="375" height="118" key="javadoc.popup.new" timestamp="1602670571242">
+    <state width="375" height="118" key="javadoc.popup.new" timestamp="1602671549690">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="375" height="118" key="javadoc.popup.new/0.0.1600.860@0.0.1600.860" timestamp="1602670571242" />
+    <state width="375" height="118" key="javadoc.popup.new/0.0.1600.860@0.0.1600.860" timestamp="1602671549690" />
   </component>
 </project>
